@@ -40,9 +40,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "******************************************"
+  ui_print " Daydream Enabler for Sony Xperia X F5121 "
+  ui_print "******************************************"
 }
 
 ##########################################################################################

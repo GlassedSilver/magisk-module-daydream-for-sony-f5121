@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=daydream-for-sony-f5121
+name=Daydream Enabler for Sony Xperia X F5121
+version=v 0.1
 versionCode=1
-author=topjohnwu
-description=A short description
-minMagisk=1500
+author=Glassed Silver
+description=Enables Daydream for the Sony Xperia X Single SIM (F5121) device.
+minMagisk=1530

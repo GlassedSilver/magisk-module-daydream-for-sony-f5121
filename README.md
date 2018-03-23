@@ -1,9 +1,18 @@
-# Magisk Module Template
+# Daydream Enabler for Sony Xperia X F5121 (v. 0.1)
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+I created this module to enable the android.software.vr.mode and
+android.hardware.vr.high_performance features for my Xperia X which
+may or **may not work on the Dual SIM model (F5122).**
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+Since this is a very low-level kind of file about the features provided
+I doubt it though, I also don't have the Dual SIM model to compare.
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+I created this module using this how to, which you may feel free to use
+yourself on your specific device:
+https://www.xda-developers.com/force-daydream-vr-compatibility/
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+That page also includes further steps needed to get into Daydream. 
+
+**Credits**
+- XDA for being the awesome place that it is to get the most out of our devices.
+- topjohnwu for making this Magisk module template that I could use.
